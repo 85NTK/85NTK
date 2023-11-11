@@ -4,4 +4,7 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/85NTK) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCt9dAc3jzg2woM-4oFNx9bg)
 
-
+<a href="https://github.com/85NTK/CPU-4-bit.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+</a>
