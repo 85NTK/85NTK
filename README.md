@@ -6,5 +6,5 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
 
 <a href="https://github.com/85NTK/CPU-4-bit.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github.com/85NTK/CPU-4-bit.git" />
 </a>
