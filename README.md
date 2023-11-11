@@ -22,5 +22,5 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
 </a>
 <a href="https://github.com/85NTK/Control-the-robotic-arm-with-servo-motors-using-PIC16F877A/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Control-the-robotic-arm-with-servo-motors-using-PIC16F877A&theme=onedark" />
-</a> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Control-the-robotic-arm-with-servo-motors-using-PIC16F877A&theme=gruvbox" />
+</a>
