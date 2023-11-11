@@ -16,4 +16,7 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Automatic-Car-Windshield-Wiper-system&theme=gruvbox" />
 </a>
-
+<a href="https://github.com/85NTK/Blood-Pressure/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Blood-Pressure&theme=dark" />
+</a>
