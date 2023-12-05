@@ -24,3 +24,8 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Robotic-Arm&theme=gruvbox" />
 </a>
+<a href="https://github.com/85NTK/Obstacle-Detection-Ultrasonic-Sensors">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=85NTK&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=rose" />
+</a>
+
