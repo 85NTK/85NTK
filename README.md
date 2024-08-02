@@ -6,15 +6,15 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
 
 <a href="https://github.com/85NTK/Sine_Generator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Sine_Generator&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Sine_Generator&theme=synthwave" />
 </a>
 
 <a href="https://github.com/85NTK/CPU_16bit">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=CPU_16bit&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=CPU_16bit&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/85NTK/Bicell_8T">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app`  -->
-  <img align="bottom" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Bitcell_8T&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Bitcell_8T&theme=dracula" />
 </a>
