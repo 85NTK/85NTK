@@ -11,7 +11,7 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
 
 <a href="https://github.com/85NTK/Sine_Generator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Sine_Generator&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Sine_Generator&theme=material-palenight" />
 </a>
 
 
