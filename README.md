@@ -23,3 +23,8 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=ECG_Signal&theme=gruvbox" />
 </a>
+
+<a href="https://github.com/85NTK/Two-stage_Op-amps">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Two-stage_Op-amps&theme=highcontrast" />
+</a>
