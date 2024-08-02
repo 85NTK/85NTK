@@ -13,3 +13,8 @@ My name is Tuan Kiet Nguyen. I am a final year student in Electronics and Commun
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=CPU_16bit&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/85NTK/Bitcell_8T">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=85NTK&repo=Bitcell_8T&theme=prussian" />
+</a>
